@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProiectMedii_Bogdan_Istrate", "ProiectMedii_Bogdan_Istrate.csproj", "{44DBF66B-B9C3-4F5B-B770-53FB091AA2E5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProiectModel", "..\ProiectModel\ProiectModel.csproj", "{2DC0CAD4-1FA7-445A-AE03-E6AA42C59196}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44DBF66B-B9C3-4F5B-B770-53FB091AA2E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44DBF66B-B9C3-4F5B-B770-53FB091AA2E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44DBF66B-B9C3-4F5B-B770-53FB091AA2E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44DBF66B-B9C3-4F5B-B770-53FB091AA2E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2DC0CAD4-1FA7-445A-AE03-E6AA42C59196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2DC0CAD4-1FA7-445A-AE03-E6AA42C59196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2DC0CAD4-1FA7-445A-AE03-E6AA42C59196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2DC0CAD4-1FA7-445A-AE03-E6AA42C59196}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE168C0E-4310-4FDD-AD93-3D6B2B2D0D51}
+	EndGlobalSection
+EndGlobal
